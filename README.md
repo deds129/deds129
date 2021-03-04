@@ -7,4 +7,4 @@
 
 [![hanisha's stats](https://badge42.herokuapp.com/api/stats/hanisha?cursus=42)](https://profile.intra.42.fr/users/hanisha)
 
-![deds129's profile views](https://komarev.com/ghpvc/?username=deds129=PROFILE+VIEWS&style=flat-square)
+![deds129's profile views](https://komarev.com/ghpvc/?username=deds129&label=PROFILE+VIEWS&style=flat-square)
