@@ -7,7 +7,7 @@ Java Developer
 * 🖥️  See my portfolio at [https://career.habr.com/deds129](http://career.habr.com/deds129)
 * ✉️  You can contact me at [nik.chudinov129@mail.ru](mailto:nik.chudinov129@mail.ru)
 * 🚀  I'm currently working on [DataArmor](http://dataarmor.ru)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning Spring Boot, k8s, Apache Kafka
 --------------
 * 🔭 I'm currently developing different java Modules in DataArmor
 * 🌱 Learning backend development
