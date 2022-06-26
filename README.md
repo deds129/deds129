@@ -14,6 +14,7 @@ Java Developer
 * ⚙️ I use daily: .java & Spring 
 * 💬Ping me about Java, Spring, backend development
 * ⚡️ Hobbies: coding, gym, ukulele, reading
+* leetcode: https://leetcode.com/deds129/
 
 
 
