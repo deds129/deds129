@@ -27,10 +27,9 @@ Java Developer
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
 <a href="https://hibernate.org/orm/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="36" height="36" alt="Hibernate" /></a>
 </p>
-
+</p>
 
 ### Socials
 
