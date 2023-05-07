@@ -7,13 +7,12 @@ Java Developer
 * 🖥️  See my portfolio at [https://career.habr.com/deds129](http://career.habr.com/deds129)
 * ✉️  You can contact me at [nik.chudinov129@mail.ru](mailto:nik.chudinov129@mail.ru)
 * 🚀  I'm currently working on [SberBank](https://sberbank.ru)
-* 🧠  I'm learning Spring Boot, k8s, Apache Kafka
+* 🧠  I'm learning Spring Boot, k8s, microservices, system design
 --------------
-* 🔭 I'm currently developing different java Modules in DataArmor
-* 🌱 Learning backend development
+* 🔭 I'm currently developing backend in Sberbank Insurace
 * ⚙️ I use daily: .java & Spring 
 * 💬Ping me about Java, Spring, backend development
-* ⚡️ Hobbies: coding, gym, ukulele, reading
+* ⚡️ Hobbies: coding, gym, reading, hicking
 * leetcode: https://leetcode.com/deds129/
 
 
