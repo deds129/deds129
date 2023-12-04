@@ -6,8 +6,8 @@ Java Developer
 * 🌍  I'm based in Kazan
 * 🖥️  See my portfolio at [https://career.habr.com/deds129](http://career.habr.com/deds129)
 * ✉️  You can contact me at [nik.chudinov129@mail.ru](mailto:nik.chudinov129@mail.ru)
-* 🚀  I'm currently working on [SberBank](https://sberbank.ru)
-* 🧠  I'm learning Spring Boot, k8s, microservices, system design
+* 🚀  I'm currently working on [RightLine](https://rtln.ru/)
+* 🧠  I'm learning microservices, system design
 --------------
 * 🔭 I'm currently developing backend on Tinkoff Bank project
 * ⚙️ I use daily: .java & Spring 
