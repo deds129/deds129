@@ -9,7 +9,7 @@ Java Developer
 * 🚀  I'm currently working on [SberBank](https://sberbank.ru)
 * 🧠  I'm learning Spring Boot, k8s, microservices, system design
 --------------
-* 🔭 I'm currently developing backend in Sberbank Insurace
+* 🔭 I'm currently developing backend on Tinkoff Bank project
 * ⚙️ I use daily: .java & Spring 
 * 💬Ping me about Java, Spring, backend development
 * ⚡️ Hobbies: coding, gym, reading, hicking
