@@ -30,21 +30,6 @@ Java Developer
 </p>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/deds129" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.stackoverflow.com/users/15463728/chudinov-nikolay" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-</a>
-<a href="https://t.me/deds_zdes" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" />
-</a>
-
-</p>
-
-
 <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ![deds129's profile views](https://komarev.com/ghpvc/?username=deds129&label=PROFILE+VIEWS&style=flat-square)
